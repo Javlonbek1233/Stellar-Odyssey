@@ -1,0 +1,6 @@
+{
+  "name": "Stellar Odyssey",
+  "description": "An immersive cosmic journey through distant galaxies and celestial wonders, featuring cinematic space exploration visuals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
